@@ -1,0 +1,6 @@
+Revision history for Perl extension Graphics::RGBManipulate.
+
+0.01  Mon Sep 23 16:02:27 2002
+	- original version; created by h2xs 1.2 with options
+		-n Graphics::RGBManipulate
+
